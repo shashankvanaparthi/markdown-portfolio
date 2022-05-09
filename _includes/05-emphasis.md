@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*sun is in the middle of the solor*
+_This will also be italic_
+
+**My name shashank**
+__This will also be bold__
+
+_You **can** combine them_
